@@ -21,10 +21,6 @@
 ### 5. Update database credential 
 ```
 
-spring.datasource.url=jdbc:mysql://127.0.0.1:3307/inventory
-spring.datasource.username=PAF
-spring.datasource.password=root
-
 
 ```
 ### 6. Right click on project Run As > Run on server 
